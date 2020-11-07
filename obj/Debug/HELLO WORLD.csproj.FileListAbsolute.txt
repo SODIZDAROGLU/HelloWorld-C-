@@ -1,0 +1,7 @@
+C:\Users\sukru\source\repos\ConsoleApp1\HELLO WORLD\bin\Debug\HELLO WORLD.exe.config
+C:\Users\sukru\source\repos\ConsoleApp1\HELLO WORLD\bin\Debug\HELLO WORLD.exe
+C:\Users\sukru\source\repos\ConsoleApp1\HELLO WORLD\bin\Debug\HELLO WORLD.pdb
+C:\Users\sukru\source\repos\ConsoleApp1\HELLO WORLD\obj\Debug\HELLO WORLD.csprojAssemblyReference.cache
+C:\Users\sukru\source\repos\ConsoleApp1\HELLO WORLD\obj\Debug\HELLO WORLD.csproj.CoreCompileInputs.cache
+C:\Users\sukru\source\repos\ConsoleApp1\HELLO WORLD\obj\Debug\HELLO WORLD.exe
+C:\Users\sukru\source\repos\ConsoleApp1\HELLO WORLD\obj\Debug\HELLO WORLD.pdb
